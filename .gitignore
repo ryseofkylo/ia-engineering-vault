@@ -1,0 +1,19 @@
+# Estado local de Obsidian (específico de esta máquina)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/hotkeys.json
+
+# Plugins de la comunidad: código de terceros, se reinstalan desde Obsidian
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+.obsidian/plugins/*/data.json.bak
+
+# Basura del sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
